@@ -43,3 +43,6 @@ var musics = [
     ]
   }
 ];
+var playlists = {
+
+};
