@@ -44,5 +44,6 @@ var musics = [
   }
 ];
 var playlists = {
-
+  //'test': ['vid1', 'vid2'],
+  '1rc-visual': ['vid2']
 };
