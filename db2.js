@@ -1,7 +1,7 @@
 var videos = [
   {
-    image: 'https://proginvert.github.io/1D-RPG-Constructor/images2.jpg',
-    name: 'vid1',
+    image: 'prew/1rc-1e.jpg',
+    name: 'Летс-плей по созданию игры. Часть 1',
 	author: 'bojik',
     comments: [
       
@@ -15,7 +15,7 @@ var videos = [
 
 var comentators = [
   { name: 'bojik', image: 'profilimg/3985667a501d11f090f90699c18b75b2_1.jpg' },
-  { name: 'Anni', image: 'profilimg/1501e91a501a11f0bf08c603efc17bf8_1.jpg' }
+  
 ];
 
 var musics = [
