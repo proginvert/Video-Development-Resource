@@ -20,14 +20,14 @@ var comentators = [
 
 var musics = [
   {
-    music: 'file:///C:/Users/Server/Downloads/Spazzmatica%20Polka.mp3',
+    music: 'musics/Dj_Karkannoid_-_Music_(SkySound.cc).mp3',
     videos: [
       {
-        name: 'vid1',
+        name: 'Летс-плей по созданию игры. Часть 1',
         version: '1.0.0',
         // Интервалы переведены в секунды для удобства JS: 
         // 0:00:00 -> 0, 0:00:10 -> 10, 0:00:30 -> 30, 0:01:10 -> 70
-        times: [ ['0:00:00', '0:00:10'], ['0:00:30', '0:01:10'] ]
+        times: [ ['0:00:00', '0:05:19'],  ]
       }
     ]
   }
