@@ -7,7 +7,7 @@ var videos = [
       
     ],
     videos: [
-      { source: 'video/les1.mp4', version: '1.0.0' }
+      { source: 'videos/les1.mp4', version: '1.0.0' }
     ]
   },
   
@@ -34,5 +34,5 @@ var musics = [
 ];
 var playlists = {
   //'test': ['vid1', 'vid2'],
-  '1rc-visual': ['vid2']
+  '1rc-visual': ['Летс-плей по созданию игры. Часть 1']
 };
