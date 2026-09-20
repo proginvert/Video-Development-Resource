@@ -7,7 +7,8 @@ var videos = [
       
     ],
     videos: [
-      { source: 'videos/les1.mp4', version: '1.0.0' }
+      { source: 'videos/les1.mp4', version: '1.0.0' },
+		{ source: ['videos/les1.5/les1-5.1.vdr','videos/les1.5/les1-5.2.vdr','videos/les1.5/les1-5.3.vdr'], version: '1.1.0' },
     ]
   },
   
