@@ -23,6 +23,18 @@ var videos = [
 		
     ]
   },
+  {
+    image: 'prew/1rc-1e.jpg',
+    name: 'Летс-плей по созданию игры. Часть 3',
+	author: 'bojik',
+    comments: [
+      
+    ],
+    videos: [
+      
+		{ source: ['videos/les 3/les3-1.vdr','videos/les 3/les3-2.vdr','videos/les 3/les3-3.vdr'], version: '1.1.0' },
+    ]
+  },
   
 ];
 
@@ -47,5 +59,5 @@ var musics = [
 ];
 var playlists = {
   //'test': ['vid1', 'vid2'],
-  '1rc-visual': ['Летс-плей по созданию игры. Часть 1']
+  '1rc-visual': ['Летс-плей по созданию игры. Часть 1','Летс-плей по созданию игры. Часть 2','Летс-плей по созданию игры. Часть 3']
 };
