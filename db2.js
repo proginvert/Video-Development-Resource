@@ -32,7 +32,7 @@ var videos = [
     ],
     videos: [
       
-		{ source: ['videos/les 3/les3-1.vdr','videos/les 3/les3-2.vdr','videos/les 3/les3-3.vdr'], version: '1.1.0' },
+		{ source: ['videos/les 3/les 3-1.vdr','videos/les 3/les 3-2.vdr','videos/les 3/les 3-3.vdr'], version: '1.1.0' },
     ]
   },
   
