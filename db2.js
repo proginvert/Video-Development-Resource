@@ -24,7 +24,7 @@ var videos = [
     ]
   },
   {
-    image: 'prew/1rc-1e.jpg',
+    image: 'prew/1rc-3e.jpg',
     name: 'Летс-плей по созданию игры. Часть 3',
 	author: 'bojik',
     comments: [
